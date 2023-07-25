@@ -1,2 +1,2 @@
 # lingga-resolusi
-Repositori untuk menyimpan rencana ke depan
+Repository untuk menyimpan rencana ke depan
